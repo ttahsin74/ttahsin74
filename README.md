@@ -1,122 +1,114 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Tahsin+-+Frontend-Focused+Full+Stack+Developer;2.5%2B+Years+of+Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+There!+👋;I'm+Tahsin;Full+Stack+Developer;Building+Scalable+Web+Apps+Since+2023;Let's+Create+Something+Awesome!" alt="Typing SVG" />
 </div>
 
-<br/>
+<br>
 
+<!-- Snake Animation - bigger & centered -->
+<h2 align="center">🐍 Contributions Getting Devoured Daily 🐍</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark" width="70%" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light" width="70%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ttahsin74/ttahsin74/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ttahsin74/ttahsin74/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ttahsin74/ttahsin74/output/github-contribution-grid-snake.svg" width="90%" />
+  </picture>
+  <p><sub>Watch the snake eat my daily green squares! 🚀</sub></p>
 </div>
 
-<br/>
+<br>
 
 ## 👨‍💻 About Me
 
-Frontend-focused **Full Stack Developer** with **2.5+ years** of experience crafting **beautiful**, **fast**, and **scalable** web applications.
+**Full Stack Developer** with **2.5+ years** of experience crafting **end-to-end web solutions** — from pixel-perfect UIs to robust, scalable backends.
 
-🔥 **Specialize in:** React • Next.js • Tailwind CSS • Laravel  
-🛠️ Also comfortable with: Flutter • Node.js • Express.js  
-💡 Passionate about clean code, performance optimization, problem-solving & turning ideas into pixel-perfect products.
+🔥 Passionate about: Clean Architecture • Performance • Scalable APIs • Modern Web  
+🛠️ Turning business ideas into production-ready apps that users love  
+🌟 Currently leading small teams & shipping features at **Ibrahim Tech BD**
 
-Currently building awesome stuff at **Ibrahim Tech BD** & helping businesses grow online.
-
-<br/>
+<br>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,typescript,javascript,html,css,nodejs,express,flutter,git,github,vscode,figma,postman" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,nodejs,express,typescript,javascript,html,css,flutter,git,github,docker,vercel,supabase,postman,figma,vscode" alt="tech stack icons" width="90%" />
 </div>
 
-<br/>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ttahsin74&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Tahsin's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttahsin74&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ttahsin74&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,prs" alt="Tahsin's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ttahsin74&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="48%" />
 </div>
-
-<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttahsin74&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttahsin74&layout=compact&theme=dracula&hide_border=true&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" width="60%" />
 </div>
 
-<br/>
+<br>
 
-## 💼 Work Experience
+## 💼 Experience Highlights
 
 **Full Stack Developer**  
 **Ibrahim Tech BD** • Nov 2024 – Present  
-- Leading small dev team for client projects  
-- Building high-performance UIs with **React & Next.js**  
-- Developing robust & scalable backends with **Laravel**  
-- Improved delivery speed & code quality with structured workflows
+- Leading development team for multiple client projects  
+- End-to-end development: React/Next.js frontend + Laravel/Node.js backend  
+- Focus on clean code, performance, API design & deployment
 
 **Frontend Developer**  
 **Sky Dream IT** • Jan 2024 – Oct 2024  
-- Developed modern interfaces using **React & Next.js**  
-- Built business dashboards with enhanced UX & feedback  
-- Created responsive forms & layouts (also worked with Angular)
+- Built modern web interfaces & dashboards (React, Next.js + some Angular)  
+- Improved UX, responsiveness & user feedback loops
 
-**Frontend Developer Intern**  
+**Frontend Intern**  
 **Creative IT Institute** • Sep 2023 – Dec 2023  
-- Mastered HTML, CSS, JavaScript & responsive design  
-- Built real-world UI components & learned best practices
+- Solid foundation in HTML/CSS/JS, responsive design & real-world workflows
 
-<br/>
+<br>
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Live</th>
-  </tr>
-  <tr>
-    <td><strong>BoiAche – Online Bookstore</strong></td>
-    <td>Complete e-commerce platform for books with modern UI & smooth experience</td>
-    <td>Next.js • Tailwind CSS • Laravel</td>
-    <td><a href="https://boiache.com">boiache.com</a></td>
-  </tr>
-  <tr>
-    <td><strong>Ahsan Prokashoni</strong></td>
-    <td>Online bookstore & product showcase with responsive & clean design</td>
-    <td>Next.js • Tailwind CSS • Laravel</td>
-    <td><a href="https://ahsan.com.bd">ahsan.com.bd</a></td>
-  </tr>
-</table>
+<div align="center">
 
-<br/>
+| Project                  | Description                                              | Tech Stack                     | Live Demo                          |
+|--------------------------|----------------------------------------------------------|--------------------------------|------------------------------------|
+| **BoiAche**             | Full-featured online bookstore e-commerce platform      | Next.js • Tailwind • Laravel   | [boiache.com](https://boiache.com) |
+| **Ahsan Prokashoni**    | Modern bookstore & product showcase with smooth UX      | Next.js • Tailwind • Laravel   | [ahsan.com.bd](https://ahsan.com.bd) |
 
-More projects on my <a href="https://github.com/ttahsin74?tab=repositories">Repositories</a> tab!
+</div>
 
-<br/>
+More exciting projects → <a href="https://github.com/ttahsin74?tab=repositories">Explore Repositories</a> ⭐
+
+<br>
 
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:ttahsn74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:ttahsinn74@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
   <a href="https://github.com/ttahsin74">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
   <a href="tel:+8801838389494">
-    <img src="https://img.shields.io/badge/Phone-📞-brightgreen?style=for-the-badge" alt="Phone"/>
+    <img src="https://img.shields.io/badge/Phone-📞-00C853?style=for-the-badge" alt="Phone" />
   </a>
 </p>
 
 <p align="center">
-  📍 Modda Badda, Boishakhi Shoroni, TA-134/7/4, Dhaka  
+  <strong>📍 Dhaka, Bangladesh</strong>  
   ✉️ ttahsinn74@gmail.com  
-  📱 01838-389494
+  📱 +880 1838-389494
 </p>
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=ttahsin74&label=Profile%20Views&color=00ff88&style=flat&pretty=true" alt="Profile Views"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=ttahsin74&label=Profile%20Views&color=00D4FF&style=flat&pretty=true" alt="Visitor Badge"/>
 </div>
 
-Thanks for stopping by! 🌟 Feel free to explore, star ⭐ repos & let's build something cool together!
+<br>
+
+<div align="center">
+  <sub>Thanks for stopping by! Feel free to explore, star ⭐ repos, or reach out — let's build something epic together! 🚀</sub>
+</div>
