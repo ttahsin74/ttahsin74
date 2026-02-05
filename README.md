@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Tahsin+-+Full+Stack+Developer;2.5%2B+Years+of+Building+Modern+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Tahsin+-+Full+Stack+Developer;2.5%2B+Years+of+Building+Modern+Web+Apps" alt="Typing SVG" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark" width="70%" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light" width="70%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark" width="90%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light" width="90%" />
 </div>
 
 <br/>
