@@ -4,12 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark" width="95%" />
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light" width="95%" />
-</div>
-
-<br/>
 
 ## 👨‍💻 About Me
 
@@ -27,6 +21,14 @@ Currently building awesome stuff at **Ibrahim Tech BD** & helping businesses gro
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,typescript,javascript,html,css,nodejs,express,flutter,git,github,vscode,figma,postman" alt="skills" />
+</div>
+
+<br/>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark" width="95%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake light" width="95%" />
 </div>
 
 <br/>
