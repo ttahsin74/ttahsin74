@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Nest.js+%7C+Laravel+%7C+TypeScript;Building+Fast+%26+Scalable+Web+Applications;3%2B+Years+of+Full+Stack+Development;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Nest.js+%7C+Laravel+%7C+TypeScript+%7C+Flutter;Building+Fast+%26+Scalable+Web+Applications;3%2B+Years+of+Full+Stack+Development;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 
 <br/>
 
@@ -61,9 +61,12 @@ Education: B.Sc. CSE — Ahsanullah ICT
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**📱 Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 **🔧 Backend**
 
@@ -110,6 +113,7 @@ Education: B.Sc. CSE — Ahsanullah ICT
           <li>Leading a small frontend team to deliver fast, user-friendly web applications</li>
           <li>Developing full-stack projects end-to-end with <strong>React, Next.js, Nest.js & Laravel</strong></li>
           <li>Building and maintaining scalable RESTful backend APIs</li>
+          <li>Working on mobile app features with <strong>Flutter</strong></li>
           <li>Improving project delivery speed and enforcing clean code practices</li>
         </ul>
       </td>
@@ -200,7 +204,7 @@ Education: B.Sc. CSE — Ahsanullah ICT
 <table>
   <tr>
     <td>🏛️</td>
-    <td><strong>Bachelor of Science — Computer Science & Engineering</strong><br/>Ahsanullah Institute of Information & Communication Technology &nbsp;|&nbsp; Session: 2019–20</td>
+    <td><strong>Bachelor of Science — Computer Science & Engineering</strong><br/>Ahsanullah Institute of Information and Communication Technology &nbsp;|&nbsp; Session: 2019–20</td>
   </tr>
   <tr>
     <td>📜</td>
