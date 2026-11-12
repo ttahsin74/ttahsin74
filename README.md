@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Laravel+%7C+TypeScript;Building+Fast+%26+Scalable+Web+Applications;3%2B+Years+of+Full+Stack+Development;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=React+%7C+Next.js+%7C+Nest.js+%7C+Laravel+%7C+TypeScript;Building+Fast+%26+Scalable+Web+Applications;3%2B+Years+of+Full+Stack+Development;Based+in+Dhaka%2C+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9" alt="Typing SVG" />
 
 <br/>
 
@@ -29,7 +29,7 @@
 ```yaml
 Name     : Mahmudul Hasan
 Title    : Full Stack Developer
-Company  : Ibrahim Tech BD
+Company  : Easy Fashion LTD
 Location : Dhaka, Bangladesh
 Exp      : 3+ Years
 Education: B.Sc. CSE — Ahsanullah ICT
@@ -37,10 +37,10 @@ Education: B.Sc. CSE — Ahsanullah ICT
 
 <br/>
 
-🔥 &nbsp;Specialized in **React**, **Next.js**, **Laravel** & **TypeScript**  
+🔥 &nbsp;Specialized in **React**, **Next.js**, **Nest.js**, **Laravel** & **TypeScript**  
 ⚡ &nbsp;Experienced across the full stack — from UI design to RESTful APIs  
 🧠 &nbsp;Passionate about clean code & performance optimization  
-🚀 &nbsp;Currently leading a dev team at **Ibrahim Tech BD**  
+🚀 &nbsp;Currently leading a dev team at **Easy Fashion LTD**  
 🌱 &nbsp;Always learning — currently deepening **DevOps** knowledge  
 📬 &nbsp;Reach me at **ttahsinn74@gmail.com**  
 
@@ -66,6 +66,7 @@ Education: B.Sc. CSE — Ahsanullah ICT
 **🔧 Backend**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -98,14 +99,14 @@ Education: B.Sc. CSE — Ahsanullah ICT
   <tbody>
     <tr>
       <td>🏆 <strong>Full Stack Developer</strong></td>
-      <td><strong>Ibrahim Tech BD</strong></td>
+      <td><strong>Easy Fashion LTD</strong></td>
       <td><code>Nov 2024 – Present</code></td>
     </tr>
     <tr>
       <td colspan="3">
         <ul>
           <li>Leading a small frontend team to deliver fast, user-friendly web applications</li>
-          <li>Developing full-stack projects end-to-end with <strong>React, Next.js & Laravel</strong></li>
+          <li>Developing full-stack projects end-to-end with <strong>React, Next.js, Nest.js & Laravel</strong></li>
           <li>Building and maintaining scalable RESTful backend APIs</li>
           <li>Improving project delivery speed and enforcing clean code practices</li>
         </ul>
